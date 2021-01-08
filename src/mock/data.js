@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I started learning Web Development since 2019 and from then on im confident to call myself a Web Developer.',
+    'I started learning Web Development since 2019 starting from HTML5, CSS3, and JavaScript. After studying for 2 Years i also learned some Frameworks that will help me improve my Website. From then on im confident to call myself a Web Developer.',
   paragraphTwo:
     "I'm well versed using React JS as my Front-End Framework. I'm also familiar on using Node as well as Git.",
   paragraphThree: 'As for my Back-End i usually use NoSQL of Google Firebase and MongoDB.',
