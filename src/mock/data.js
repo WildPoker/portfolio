@@ -18,9 +18,11 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    'I started learning Web Development since 2019 and from then on im confident to call myself a Web Developer.',
+  paragraphTwo:
+    "I'm well versed using React JS as my Front-End Framework. I'm also familiar on using Node as well as Git.",
+  paragraphThree: 'As for my Back-End i usually use NoSQL of Google Firebase and MongoDB.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -30,7 +32,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Chill-images.jpg',
     title: 'Chill Images',
-    info: 'Just simple static website showing some chill vibe images.',
+    info: 'A simple static website showing some chill vibe images.',
     info2: '',
     url: 'https://chill-images.netlify.app/',
     repo: 'https://github.com/WildPoker/ChillImages', // if no repo, the button will not show up
@@ -48,7 +50,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'ALGV.jpg',
     title: 'ALGV',
-    info: '',
+    info: 'Under Development',
     info2: '',
     url: '',
     repo: 'https://github.com/superpixel13/algv-Gatsby-Project', // if no repo, the button will not show up
