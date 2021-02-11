@@ -39,12 +39,31 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'AJ-Guitar.jpg',
+    title: 'AJ GUITAR CUSTOM SHOP',
+    info: 'AJ Guitar Custom Shop for custom services on guitar',
+    info2: '',
+    url: 'https://superpixel13.github.io/AJGuitar/',
+    repo: 'https://github.com/superpixel13/AJGuitar', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Usap.jpg',
     title: 'Usap',
     info: 'A project where i develop a live chat application with friends feature.',
     info2: '',
     url: 'https://usap-4684f.web.app/',
     repo: 'https://github.com/WildPoker/usap', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'get-repo.jpg',
+    title: 'Get Repo',
+    info:
+      'This website will allow the user to search for user github usernames and will lists all the repositories that are public.',
+    info2: '',
+    url: 'https://get-repo.netlify.app/',
+    repo: 'https://github.com/WildPoker/get-repo', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
